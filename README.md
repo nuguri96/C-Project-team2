@@ -1,7 +1,7 @@
 # 점심추천 + 키오스크 프로그램
 
-프로젝트 시작전에 NutGet 패키지 관리에서 OpenQA 검색한뒤에 첫번째 다운
-Selenium.WebDriver  검색한뒤 첫번째 다운
+## 프로젝트 시작전에 NutGet 패키지 관리에서 OpenQA 검색한뒤에 첫번째 다운
+## Selenium.WebDriver  검색한뒤 첫번째 다운
 
 
 
