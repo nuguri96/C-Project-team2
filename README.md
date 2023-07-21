@@ -4,6 +4,7 @@
 
 
 
+
 LunchMenuRecommend_KIOSK INFO
 -----------------------------------------------------------------
 program launch(프로젝트 시작시 chrome web drvier, chrome update, selenium이라는 패키지 설치 필수)
