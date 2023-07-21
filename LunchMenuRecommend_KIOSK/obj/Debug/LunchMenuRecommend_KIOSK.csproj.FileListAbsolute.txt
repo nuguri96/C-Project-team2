@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\LunchMenuRecommend_KIOSK.exe.config
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\LunchMenuRecommend_KIOSK.exe
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\LunchMenuRecommend_KIOSK.pdb
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\bin\Debug\WebDriver.dll
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.csproj.CopyComplete
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.exe
+C:\Users\USER\source\repos\LunchMenuRecommend_KIOSK\obj\Debug\LunchMenuRecommend_KIOSK.pdb
