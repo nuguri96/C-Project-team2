@@ -1,5 +1,10 @@
 # C-Project-team2
 
+프로젝트 시작전에 NutGet 패키지 관리에서 OpenQA 검색한뒤에 첫번째 다운
+Selenium.WebDriver  검색한뒤 첫번째 다운
+
+
+
 LunchMenuRecommend_KIOSK INFO
 -----------------------------------------------------------------
 program launch(프로젝트 시작시 chrome web drvier, chrome update, selenium이라는 패키지 설치 필수)
